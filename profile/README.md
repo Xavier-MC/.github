@@ -6,7 +6,7 @@
 [![QQ Channel](/QQChannel.svg)](https://pd.qq.com/s/4pbctumt)
 
 ## 连接
-* Java版 1.13 - 1.19.4
+* Java版 1.13 - 1.20
 
 |节点|地址|
 |-|-|
