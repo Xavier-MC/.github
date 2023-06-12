@@ -6,14 +6,14 @@
 [![QQ Channel](/QQChannel.svg)](https://pd.qq.com/s/4pbctumt)
 
 ## 连接
-* Java版 1.13 - 1.20
+* Java版 1.13 - 1.20.1
 
 |节点|地址|
 |-|-|
 |随机|xavier.asia|
 |郑州|mc.xavier.asia:20002|
 |北京|bj.xavier.asia|
-* 基岩版 1.19.40 - 1.19.81
+* 基岩版 1.19.80 - 1.20.0
 > 点击卡片可快速将服务器信息导入至游戏
 
 [![郑州](/Zhengzhou.svg)](https://xavier.asia/bedrock-zhengzhou)
