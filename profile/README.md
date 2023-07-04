@@ -1,7 +1,7 @@
 <h1 align="center">Xavier</h1>
 <p align="center">一个高版本 Minecraft 互通服！</p>
 
-[![Website](/Website.svg)](https://xavier.asia)
+[![Website](/Website.svg)](https://xaviermc.top)
 [![QQ Group](/QQGroup.svg)](https://qm.qq.com/cgi-bin/qm/qr?group_code=436392446)
 [![QQ Channel](/QQChannel.svg)](https://pd.qq.com/s/4pbctumt)
 
