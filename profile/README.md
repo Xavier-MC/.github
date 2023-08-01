@@ -13,8 +13,6 @@
 * 基岩版 1.19.80 - 1.20.10
 > ~~点击卡片可快速将服务器信息导入至游戏~~ 在修 别急
 
-[![基岩版](/Zhengzhou.svg)](minecraft://?addExternalServer=Xavier|zz.xaviermc.top:20002)
-
 |节点|地址|端口|
 |-|-|-|
 |郑州|zz.xaviermc.top|20002|
